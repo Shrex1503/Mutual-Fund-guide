@@ -1,0 +1,2 @@
+# Mutual-Fund-guide
+Developing a website that helps you choose the right mutual fund. The Mutual Fund data is retrieved from multiple Rating Agencies and put together for user’s convenience. Important decision driving parameters are scraped from Rating Agency websites and are persisted into MySql database. Web UI is planned to be developed using ReactJS, served by Flask based Python Web Service. Web application provides features to filter the data that helps both buyers and sellers.
